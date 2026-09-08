@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img src="img/banner.png" alt="Banner" width="100%">
+  <img src="img/Banner.png" alt="Banner" width="100%">
 </div>
 
   <br/>
@@ -60,6 +60,33 @@ To get a local copy up and running, follow these simple steps:
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🏠 Home Page</b></td>
+      <td align="center"><b>📋 Login Page</b></td>
+    </tr>
+    <tr>
+      <td><img src="img/sazino.png" alt="Home Page"></td>
+      <td><img src="img/login.png" alt="Login Page"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>☎️ Contact Us Page</b></td>
+      <td align="center"><b>📝 About Us Page</b></td>
+    </tr>
+    <tr>
+      <td><img src="img/contactus.png" alt="Contact Us"></td>
+      <td><img src="img/aboutus.png" alt="About Us Page"></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -114,6 +141,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 <details>
 <summary><b>🇮🇷 فارسی (Persian) – کلیک کنید</b></summary>
+  
 <br/>
 
 > یک وب‌سایت شرکتی مدرن، کاملاً واکنش‌گرا و حرفه‌ای که برای **شرکت سازینو** طراحی شده است. این پروژه یک حضور آنلاین حرفه‌ای را با ظاهری تمیز، تعاملات روان و تجربه‌ی کاربری دوست‌داشتنی به نمایش می‌گذارد — تماماً با استفاده از تکنولوژی‌های سمت کاربر (فرانت‌اند).
@@ -159,6 +187,34 @@ Contributions are what make the open-source community such an amazing place to l
     کافی است فایل `sazino_site.html` را در مرورگر خود باز کنید. هیچ ابزار ساخت یا نصب‌افزاری نیاز نیست!
 
 ---
+
+## 📸 پیش‌نمایش
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🏠 صفحه اصلی</b></td>
+      <td align="center"><b>📋 صفحه ورود</b></td>
+    </tr>
+    <tr>
+      <td><img src="img/sazino.png" alt="Home Page"></td>
+      <td><img src="img/login.png" alt="Login Page"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>☎️ صفحه تماس با ما</b></td>
+      <td align="center"><b>📝 صفحه درباره ی ما</b></td>
+    </tr>
+    <tr>
+      <td><img src="img/contactus.png" alt="Contact Us"></td>
+      <td><img src="img/aboutus.png" alt="About Us Page"></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+
 
 ## 📂 ساختار پروژه
 
